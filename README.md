@@ -1,2 +1,2 @@
-# telegram_chat_statistics
+# telegram-chat-statistics
 Export Statistical Informaton from a Group Chat
